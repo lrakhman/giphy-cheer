@@ -1,0 +1,2 @@
+module DevinHelper
+end
